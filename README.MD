@@ -26,3 +26,24 @@ def start():
 if __name__ == "__main__":
 	app.run(debug=False)
 ```
+
+
+
+## Start Learning Flask
+
+1. Setup and workflow.
+2. Get a basic app running.
+3. Templates and static content.
+4. Setting up and using Database.
+5. Create a basic CRUD Application.
+6. Deploy to Heroku.
+
+### Setup And Workflow
+
+**Installing Python and Visual Studio Code**
+
+to begin with **flask,** We need few things to be installed on the computer. Firstly we python 3.8.x to be installed on the system and to do code we need a code editor  VS Code.
+
+Follow this link to install Python : [https://www.tutorialspoint.com/how-to-install-python-in-windows](https://www.tutorialspoint.com/how-to-install-python-in-windows)
+
+Follow this link to install VS Code : [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and [https://code.visualstudio.com/learn/get-started/basics](https://code.visualstudio.com/learn/get-started/basics)~
