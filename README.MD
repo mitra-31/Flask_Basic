@@ -46,4 +46,4 @@ to begin with **flask,** We need few things to be installed on the computer. Fir
 
 Follow this link to install Python : [https://www.tutorialspoint.com/how-to-install-python-in-windows](https://www.tutorialspoint.com/how-to-install-python-in-windows)
 
-Follow this link to install VS Code : [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and [https://code.visualstudio.com/learn/get-started/basics](https://code.visualstudio.com/learn/get-started/basics)~
+Follow this link to install VS Code : [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and [https://code.visualstudio.com/learn/get-started/basics](https://code.visualstudio.com/learn/get-started/basics)
